@@ -12,7 +12,7 @@ My name is Tao Yang (杨涛, in Chinese). I am now a fourth year PhD student at 
 My research mainly focuses on Information Retrieval and Machine Learning related topics. Currently I'm working on applying deep learning techniques on IR problems including product search/recommendation and learning to rank.
 
 <h2>News</h2>
--  ***Nov. 2022***, I accepted a full-time job offer as Applied Scientist from Amazon Search and plan to join Amazon in June, 2023.
+<!-- -  ***Nov. 2022***, I accepted a full-time job offer as Applied Scientist from Amazon Search and plan to join Amazon in June, 2023. -->
 - ***Oct. 2022***, One paper *"Marginal-Certainty-aware Fair Ranking Algorithm"* was accepted by WSDM2023.
 - ***May.2022***, Passed my Oral and written exams for ph.D. candidancy.
 - ***May. 2022***, Start the second Applied Scientist  Internship at Amazon Search.
