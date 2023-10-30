@@ -13,7 +13,7 @@ My research mainly focuses on Information Retrieval and Machine Learning related
 
 <h2>News</h2>
 <!-- -  ***Nov. 2022***, I accepted a full-time job offer as Applied Scientist from Amazon Search and plan to join Amazon in June, 2023. -->
-- ***Oct. 2022***, One paper *"Vertical Allocation-based Fair Exposure Amortizing in Ranking"* was accepted by SIGIR-AP2023.
+- ***Oct. 2023***, One paper *"Vertical Allocation-based Fair Exposure Amortizing in Ranking"* was accepted by SIGIR-AP2023.
 - ***Aug. 2023***, One paper *"FARA: future-aware ranking algorithm for fairness optimization"* was accepted by CIKM2023.
 - ***Oct. 2022***, One paper *"Marginal-Certainty-aware Fair Ranking Algorithm"* was accepted by WSDM2023.
 - ***May.2022***, Passed my Oral and written exams for ph.D. candidancy.
