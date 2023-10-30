@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Tao Yang (杨涛, in Chinese). I am now a fourth year PhD student at school of computing,  University of Utah. My supervisors are Prof. [Qingyao Ai](https://ir.aiqingyao.org/home) and Prof. [Jeff M Phillips](https://www.cs.utah.edu/~jeffp/).
+My name is Tao Yang (杨涛, in Chinese). I am now a PhD student at school of computing,  University of Utah. My supervisors are Prof. [Qingyao Ai](https://ir.aiqingyao.org/home) and Prof. [Jeff M Phillips](https://www.cs.utah.edu/~jeffp/).
 
 My research mainly focuses on Information Retrieval and Machine Learning related topics. Currently I'm working on applying deep learning techniques on IR problems including product search/recommendation and learning to rank.
 
 <h2>News</h2>
 <!-- -  ***Nov. 2022***, I accepted a full-time job offer as Applied Scientist from Amazon Search and plan to join Amazon in June, 2023. -->
+- ***Oct. 2022***, One paper *"Vertical Allocation-based Fair Exposure Amortizing in Ranking"* was accepted by SIGIR-AP2023.
+- ***Aug. 2023***, One paper *"FARA: future-aware ranking algorithm for fairness optimization"* was accepted by CIKM2023.
 - ***Oct. 2022***, One paper *"Marginal-Certainty-aware Fair Ranking Algorithm"* was accepted by WSDM2023.
 - ***May.2022***, Passed my Oral and written exams for ph.D. candidancy.
 - ***May. 2022***, Start the second Applied Scientist  Internship at Amazon Search.
@@ -52,7 +54,7 @@ the National Mechanics Competition in honor of Peiyuan Zhou, China, 2015
         </li>
 </ul> 
 
-***Last updates: Nov.11 2022***
+***Last updates: Oct.30 2023***
 <div align="center"><p> This site has been visited <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?taoyang"
 border="0" alt="stats counter"></a>
